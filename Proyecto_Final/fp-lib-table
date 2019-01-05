@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Platzi)(type KiCad)(uri ${KISYSMOD}/Platzi.pretty)(options "")(descr ""))
+)

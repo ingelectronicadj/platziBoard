@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tps61087)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/tps61087.lib)(options "")(descr ""))
+)

@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name TPS61087)(type KiCad)(uri ${KISYSMOD}/TPS61087.pretty)(options "")(descr ""))
-  (lib (name SDR0805-5R6ML)(type KiCad)(uri ${KISYSMOD}/SDR0805-5R6ML.pretty)(options "")(descr ""))
-)
