@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Platzi)(type KiCad)(uri ${KISYSMOD}/Platzi.pretty)(options "")(descr ""))
+  (lib (name HC-05)(type KiCad)(uri ${KISYSMOD}/HC-05.pretty)(options "")(descr ""))
 )
