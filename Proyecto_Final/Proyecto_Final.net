@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/diego/proyectos/pcbDesign/platziBoard/Proyecto_Final/Proyecto_Final.sch)
-    (date "dom 06 ene 2019 15:11:13 -05")
+    (date "dom 06 ene 2019 23:48:55 -05")
     (tool "Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -347,7 +347,7 @@
       (tstamp 5B6DB53C))
     (comp (ref RV1)
       (value R_POT_TRIM)
-      (footprint Potentiometer_THT:Potentiometer_Bourns_3339P_Vertical)
+      (footprint Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal)
       (libsource (lib Device) (part R_POT_TRIM) (description Trim-potentiometer))
       (sheetpath (names /) (tstamps /))
       (tstamp 5B6DCDD5))
@@ -515,7 +515,7 @@
       (tstamp 5B6F812C))
     (comp (ref D7)
       (value LED_RCGB)
-      (footprint LED_SMD:LED_RGB_Cree-PLCC-6_6x5mm_P2.1mm)
+      (footprint LED_THT:LED_D5.0mm-4_RGB_Wide_Pins)
       (libsource (lib Device) (part LED_RCGB) (description "RGB LED, red/cathode/green/blue"))
       (sheetpath (names /) (tstamps /))
       (tstamp 5B6FE51F))
