@@ -1390,7 +1390,7 @@ U 1 1 5B6DCDD5
 P 7050 3700
 F 0 "RV1" V 6875 3700 50  0000 C CNN
 F 1 "R_POT_TRIM" V 6950 3700 50  0000 C CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3339P_Vertical" H 7050 3700 50  0001 C CNN
+F 2 "Potentiometer_THT:Potentiometer_Bourns_3296X_Horizontal" H 7050 3700 50  0001 C CNN
 F 3 "" H 7050 3700 50  0001 C CNN
 	1    7050 3700
 	-1   0    0    1   
